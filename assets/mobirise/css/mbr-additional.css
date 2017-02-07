@@ -1,31 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 
-#header1-12 SPAN {
-  color: #27aae0;
-}
-#header1-12 P {
-  color: #efefef;
-}
-#footer1-1k P {
-  color: #000000;
-}
-#ext_menu-37 .mbr-brand__name {
-  font-size: 16px;
-}
-#ext_menu-37.mbr-navbar--stuck .mbr-navbar__section {
-  background: #f97352;
-}
-#ext_menu-37 .mbr-navbar__section {
-  background: #f97352;
-}
-#ext_menu-37 .mbr-navbar__hamburger {
-  color: #7c706b;
-}
-#ext_menu-37 .mbr-brand__name a {
-  font-size: 19px;
-  font-family: 'PT Sans', sans-serif;
-}
-
 #ext_menu-13 .mbr-brand__name {
   font-size: 16px;
 }
@@ -159,4 +133,30 @@
 }
 #footer1-1k P {
   color: #000000;
+}
+
+#header1-12 SPAN {
+  color: #27aae0;
+}
+#header1-12 P {
+  color: #efefef;
+}
+#footer1-1k P {
+  color: #000000;
+}
+#ext_menu-37 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-37.mbr-navbar--stuck .mbr-navbar__section {
+  background: #f97352;
+}
+#ext_menu-37 .mbr-navbar__section {
+  background: #f97352;
+}
+#ext_menu-37 .mbr-navbar__hamburger {
+  color: #7c706b;
+}
+#ext_menu-37 .mbr-brand__name a {
+  font-size: 19px;
+  font-family: 'PT Sans', sans-serif;
 }
