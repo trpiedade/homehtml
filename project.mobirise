@@ -110,7 +110,7 @@
                 "caption": "Bolsa de mao ref. 1003",
                 "thumb": "@PROJECT_PATH@/assets/images/ref-1003-1-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ref-1003-1-2000x1333.jpg",
-                "active": true
+                "active": false
               },
               {
                 "caption": "Bolsa de mao ref. 1003",
@@ -251,10 +251,148 @@
                 "active": false
               },
               {
-                "caption": "Bolsa de mao ref. 1021",
+                "caption": "Bolsa de mao ref. 1022",
                 "thumb": "@PROJECT_PATH@/assets/images/ref-31-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ref-31-2000x1333.jpg",
                 "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1023",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-1023-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-1023-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1023",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-66-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-66-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1024",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-67-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-67-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1025",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-1027-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-1027-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1025",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-68-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-68-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1026",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-69-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-69-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1027",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-70-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-70-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1028",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-1030-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-1030-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1028",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-71-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-71-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1029",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-72-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-72-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1030",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-1032-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-1032-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1030",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-73-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-73-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1031",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-1033-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-1033-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1031",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-74-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-74-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1032",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-1034-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-1034-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1032",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-75-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-75-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1033",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-76-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-76-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1034",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-1036-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-1036-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1034",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-77-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-77-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1035&nbsp;",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-78-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-78-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1036",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-79-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-79-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1037",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-1025-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-1025-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bolsa de mao ref. 1037",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-80-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-80-2000x1333.jpg",
+                "active": true
               }
             ],
             "showText": true,
@@ -374,6 +512,84 @@
                 "caption": "Mala ref. 2002",
                 "thumb": "@PROJECT_PATH@/assets/images/ref-52-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ref-52-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Mala ref. 2003",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-2003-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-2003-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Mala ref. 2003",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-81-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-81-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Mala ref. 2004",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-82-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-82-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Mala ref. 2005",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-83-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-83-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Mala ref. 2006",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-84-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-84-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Mala ref. 2007",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-85-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-85-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Mala ref. 2008",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-86-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-86-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Mala ref. 2009",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-87-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-87-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Mala ref. 2010",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-2010-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-2010-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Mala ref. 2010",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-88-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-88-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Mala ref. 2011",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-2011-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-2011-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Mala ref. 2011",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-89-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-89-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Mala ref. 2012",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-90-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-90-2000x1333.jpg",
                 "active": true
               }
             ],
@@ -545,6 +761,30 @@
                 "caption": "Porta Moedas ref. 4008",
                 "thumb": "@PROJECT_PATH@/assets/images/ref-60-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ref-60-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Porta Moedas ref. 4009",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-91-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-91-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Porta Moedas ref. 4010",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-92-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-92-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Porta Moedas ref. 4011",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-93-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-93-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Porta Moedas ref. 4012",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-94-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-94-2000x1333.jpg",
                 "active": true
               }
             ],
@@ -689,6 +929,36 @@
                 "caption": "Porta Moedas ref. 4005",
                 "thumb": "@PROJECT_PATH@/assets/images/ref-65-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ref-65-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Porta Moedas ref. 4006",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-95-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-95-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Porta Moedas ref. 4007",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-96-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-96-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Porta Moedas ref. 4008",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-97-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-97-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Porta Moedas ref. 4009",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-98-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-98-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Porta Moedas ref. 4010",
+                "thumb": "@PROJECT_PATH@/assets/images/ref-99-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ref-99-2000x1333.jpg",
                 "active": true
               }
             ],
