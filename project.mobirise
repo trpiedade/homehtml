@@ -162,7 +162,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-mae-73x83-101.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-mae-73x83-102.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "BOLSAS & MALAS TRP",
