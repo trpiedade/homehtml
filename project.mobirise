@@ -35,7 +35,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#7c706b"
+              "color": "#f97352"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
@@ -453,7 +453,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#7c706b"
+              "color": "#f97352"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
@@ -1013,7 +1013,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#7c706b"
+              "color": "#f97352"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
