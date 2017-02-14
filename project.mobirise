@@ -35,7 +35,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#f97352"
+              "color": "#2969b0"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
@@ -47,7 +47,7 @@
           "_anchor": "ext_menu-13",
           "_params": {
             "color": "#f97352",
-            "hamburgerColor": "#f97352",
+            "hamburgerColor": "#2969b0",
             "transparent": true,
             "sticky": true,
             "collapsed": false,
@@ -453,7 +453,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#f97352"
+              "color": "#2969b0"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
@@ -465,7 +465,7 @@
           "_anchor": "ext_menu-13",
           "_params": {
             "color": "#f97352",
-            "hamburgerColor": "#f97352",
+            "hamburgerColor": "#2969b0",
             "transparent": true,
             "sticky": true,
             "collapsed": false,
@@ -662,11 +662,9 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#f97352"
             },
-            ".mbr-navbar__section": {
-              "background": "#f97352"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#f97352"
+              "color": "#2969b0"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
@@ -678,7 +676,7 @@
           "_anchor": "ext_menu-13",
           "_params": {
             "color": "#f97352",
-            "hamburgerColor": "#f97352",
+            "hamburgerColor": "#2969b0",
             "transparent": true,
             "sticky": true,
             "collapsed": false,
@@ -841,7 +839,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#f97352"
+              "color": "#2969b0"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
@@ -853,7 +851,7 @@
           "_anchor": "ext_menu-26",
           "_params": {
             "color": "#f97352",
-            "hamburgerColor": "#f97352",
+            "hamburgerColor": "#2969b0",
             "transparent": true,
             "sticky": true,
             "collapsed": false,
@@ -1013,7 +1011,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#f97352"
+              "color": "#2969b0"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
@@ -1025,7 +1023,7 @@
           "_anchor": "ext_menu-37",
           "_params": {
             "color": "#f97352",
-            "hamburgerColor": "#f97352",
+            "hamburgerColor": "#2969b0",
             "transparent": true,
             "sticky": true,
             "collapsed": false,
@@ -1193,7 +1191,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#f97352"
+              "color": "#2969b0"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
@@ -1205,7 +1203,7 @@
           "_anchor": "ext_menu-37",
           "_params": {
             "color": "#f97352",
-            "hamburgerColor": "#f97352",
+            "hamburgerColor": "#2969b0",
             "transparent": true,
             "sticky": true,
             "collapsed": false,
@@ -1255,7 +1253,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#f97352"
+              "color": "#2969b0"
             },
             ".mbr-brand__name a": {
               "font-size": "19px",
@@ -1267,7 +1265,7 @@
           "_anchor": "ext_menu-13",
           "_params": {
             "color": "#f97352",
-            "hamburgerColor": "#f97352",
+            "hamburgerColor": "#2969b0",
             "transparent": true,
             "sticky": true,
             "collapsed": false,
